@@ -8,8 +8,9 @@
   </head>
   <body>
     <div id="middle">
-      <p class="no">NO</p>
+      <p class="notyet">NOT YET</p>
     </div>
+
     <script src="script.js"></script>
   </body>
 </html>
