@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>HasBakhmutFallen.com</title>
+    <title>Has Bakhmut Fallen?</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-    <h1>Welcome to HasBakhmutFallen.com</h1>
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="no.html">Has Bakhmut Fallen?</a></li>
-    </ul>
+    <div id="middle">
+      <p class="no">NO</p>
+    </div>
+    <script src="script.js"></script>
   </body>
 </html>
