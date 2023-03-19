@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
       body {
-        font-family: Arial, sans-serif;
-
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         background-color: #fff;
         margin: 0;
         padding: 0;
@@ -76,16 +75,7 @@
   </head>
   <body>
     <div id="middle">
-      <p class="notyet">NOT YET</p>
-    </div>
-
-    <div id="social">
-      <a href="https://mastodon.social/share?text=Has%20Bakhmut%20Fallen%3F%20Find%20out%20here%3A&amp;url=https%3A%2F%2Fhasbakhmutfallen.com" target="_blank" id="mastodon">
-        <img src="https://assets.mastodon.social/images/logo.svg" alt="Share on Mastodon" title="Share on Mastodon">
-      </a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhasbakhmutfallen.com" target="_blank" id="fb">
-        <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Share on Facebook" title="Share on Facebook">
-      </a>
+      <p class="no">NO</p>
     </div>
   </body>
 </html>
