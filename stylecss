@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Has Bakhmut Fallen?</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+
+        background-color: #fff;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      h1 {
+        font-size: 72px;
+        text-align: center;
+        margin: 0;
+        font-weight: bold;
+        color: red;
+      }
+      #middle{
+        text-align:center;
+        margin-top:15%;
+      }
+
+      p{
+        font-family: Arial, sans-serif;
+      }
+
+      p.yes{
+        font-size:120pt;
+        font-weight: bold;
+        color: green;
+      }
+
+      p.no{
+        font-size:120pt;
+        font-weight: bold;
+        color: red;
+      }
+
+      p.notyet{
+        font-size:120pt;
+        font-weight: bold;
+        color: yellow;
+      }
+
+      .ie6 #social, .ie7 #social, .ie8 #social, .ie9 #social {
+        margin-left: 158px;
+      }
+
+      #social{
+        width: 136px;
+        margin: auto;
+      }
+
+      #mastodon, #fb{
+        display: block;
+        border: none;
+        height: 21px;
+      }
+
+      #fb{
+        width: 81px;
+        margin-left: 27px;
+      }
+
+      .ie6 #fb, .ie7 #fb, .ie8 #fb, .ie9 #fb{
+        margin-left: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="middle">
+      <p class="notyet">NOT YET</p>
+    </div>
+
+    <div id="social">
+      <a href="https://mastodon.social/share?text=Has%20Bakhmut%20Fallen%3F%20Find%20out%20here%3A&amp;url=https%3A%2F%2Fhasbakhmutfallen.com" target="_blank" id="mastodon">
+        <img src="https://assets.mastodon.social/images/logo.svg" alt="Share on Mastodon" title="Share on Mastodon">
+      </a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhasbakhmutfallen.com" target="_blank" id="fb">
+        <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Share on Facebook" title="Share on Facebook">
+      </a>
+    </div>
+  </body>
+</html>
