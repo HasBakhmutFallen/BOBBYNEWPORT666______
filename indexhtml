@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Has Bakhmut Fallen?</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      body {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #fff; /* Change background color to white */
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 36px;
+        text-align: center;
+        margin: 30px 0;
+        font-weight: bold;
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>NO</h1> <!-- Remove period if you don't want it -->
+  </body>
+</html>
