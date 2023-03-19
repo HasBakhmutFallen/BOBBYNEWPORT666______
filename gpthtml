@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Blank Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      body {
+        background-color: white;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+      h1 {
+        font-size: 100px;
+        margin-top: 20%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>NO</h1>
+  </body>
+</html>
